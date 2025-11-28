@@ -18,7 +18,7 @@ export const TipForm = ({ recipientAddress, onSuccess }: TipFormProps) => {
     e.preventDefault();
 
     if (!amount || parseFloat(amount) <= 0) {
-      setError('Please enter a valid amount');
+      setError('请输入有效的金额');
       return;
     }
 
@@ -32,7 +32,7 @@ export const TipForm = ({ recipientAddress, onSuccess }: TipFormProps) => {
       setAmount('');
       setMessage('');
     } catch (err) {
-      const errorMessage = err instanceof Error ? err.message : 'Transaction failed';
+      const errorMessage = err instanceof Error ? err.message : '交易失败';
       setError(errorMessage);
     } finally {
       setLoading(false);
@@ -43,7 +43,7 @@ export const TipForm = ({ recipientAddress, onSuccess }: TipFormProps) => {
     <form onSubmit={handleSubmit} className="space-y-6 bg-white rounded-xl p-8 shadow-2xl">
       <div>
         <label className="block text-sm font-medium text-gray-700 mb-2">
-          Amount (ETH)
+          金额 (ETH)
         </label>
         <input
           type="number"
@@ -71,12 +71,12 @@ export const TipForm = ({ recipientAddress, onSuccess }: TipFormProps) => {
 
       <div>
         <label className="block text-sm font-medium text-gray-700 mb-2">
-          Message (Optional)
+          留言（可选）
         </label>
         <textarea
           value={message}
           onChange={(e) => setMessage(e.target.value)}
-          placeholder="Say something nice..."
+          placeholder="说点什么吧..."
           rows={3}
           className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent"
           disabled={loading}
@@ -94,7 +94,7 @@ export const TipForm = ({ recipientAddress, onSuccess }: TipFormProps) => {
         disabled={loading || !amount}
         className="w-full px-6 py-4 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-all disabled:opacity-50 font-semibold text-lg"
       >
-        {loading ? 'Processing...' : 'Send Tip'}
+        {loading ? '处理中...' : '发送打赏'}
       </button>
     </form>
   );

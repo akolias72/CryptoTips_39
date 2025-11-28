@@ -24,7 +24,7 @@ export const WalletButton = () => {
       disabled={loading}
       className="px-6 py-2 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-all disabled:opacity-50"
     >
-      {loading ? 'Connecting...' : 'Connect Wallet'}
+      {loading ? '连接中...' : '连接钱包'}
     </button>
   );
 };
